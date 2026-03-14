@@ -1,0 +1,6 @@
+.env
+*.txt
+log-*.txt
+platinum-log-*.txt
+shark-log-*.txt
+auto-log-*.txt
